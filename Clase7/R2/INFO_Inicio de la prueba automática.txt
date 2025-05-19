@@ -1,6 +1,0 @@
-[INFO] Inicio de la prueba automática
-[WARNING] El módulo X respondió lentamente
-[ERROR] Falla de conexión con la base de datos
-[INFO] Prueba completada con éxito
-[WARNING] Tiempo de respuesta excedido
-[ERROR] Elemento no encontrado en la página
